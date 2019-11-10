@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Mr&Ms. Gorla Janardhan & Sandhya Reddy !!! </h1>
+<h1> Hello, Welcome to Hewlett Packard SmartQuote World !!! </h1>
 
